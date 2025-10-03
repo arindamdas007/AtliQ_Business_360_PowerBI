@@ -167,7 +167,7 @@ ProductsView
 
 ## 🖊 Author
 
-**Your Name** – Aspiring Data Analyst  
+**Arindam Das** – Aspiring Data Analyst  
 🔗 [LinkedIn](linkedin.com/in/arindamdas007)
 
 ---
