@@ -152,31 +152,31 @@ The company faced unforeseen losses in America and lacks a strong analytics team
 
 HomeView
 
-<img width="1200" height="373" alt="Home" src="https://github.com/user-attachments/assets/d2b0396e-dd9e-4398-b3cb-9d24e21cd96f" />
+<img width="1200" height="500" alt="Home" src="https://github.com/user-attachments/assets/d2b0396e-dd9e-4398-b3cb-9d24e21cd96f" />
 
 FinanceView
 
-<img width="1200" height="373" alt="Finance View" src="https://github.com/user-attachments/assets/5c5638db-05d0-402f-bb67-c5d47cc7463d" />
+<img width="1200" height="500" alt="Finance View" src="https://github.com/user-attachments/assets/5c5638db-05d0-402f-bb67-c5d47cc7463d" />
 
 SalesView
 
-<img width="1200" height="368" alt="Sales View" src="https://github.com/user-attachments/assets/6ff46582-0fa4-45c2-b0fa-3389635e4a21" />
+<img width="1200" height="500" alt="Sales View" src="https://github.com/user-attachments/assets/6ff46582-0fa4-45c2-b0fa-3389635e4a21" />
 
 MarketingView
 
-<img width="1200" height="371" alt="Marketing View" src="https://github.com/user-attachments/assets/e3b48d26-bcb4-469a-8fcf-bf29c563c017" />
+<img width="1200" height="500" alt="Marketing View" src="https://github.com/user-attachments/assets/e3b48d26-bcb4-469a-8fcf-bf29c563c017" />
 
 SupplyChainView
 
-<img width="1200" height="376" alt="Supply Chain View" src="https://github.com/user-attachments/assets/8adf5ce3-4ac5-4567-b822-fb27017c0889" />
+<img width="1200" height="500" alt="Supply Chain View" src="https://github.com/user-attachments/assets/8adf5ce3-4ac5-4567-b822-fb27017c0889" />
 
 ExecutiveView
 
-<img width="1200" height="373" alt="Executive View" src="https://github.com/user-attachments/assets/3e97bccd-5f42-49da-a8c1-ae2b7dee6163" />
+<img width="1200" height="500" alt="Executive View" src="https://github.com/user-attachments/assets/3e97bccd-5f42-49da-a8c1-ae2b7dee6163" />
 
 ProductsView
 
-<img width="1200" height="371" alt="Top   Bottom Product View" src="https://github.com/user-attachments/assets/65b661e6-98de-4042-ab49-6403e80921f1" />
+<img width="1200" height="500" alt="Top   Bottom Product View" src="https://github.com/user-attachments/assets/65b661e6-98de-4042-ab49-6403e80921f1" />
 
 
 ## 🖊 Author
