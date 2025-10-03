@@ -186,8 +186,9 @@ ProductsView
 ---
 
 ## ✅ Project Outcome
+
 The dashboard enables AtliQ Hardware to make data-driven decisions, monitor performance across all business functions, and gain actionable insights for strategic growth.
 
 ## ⚡ Acknowledgement
 
-Inspired by **Codebasics Power BI course** and the **Business Insights 360 methodology**, integrati
+Inspired by **Codebasics Power BI course** and the **Business Insights 360 methodology**, integrating **finance, sales, marketing, and supply chain analytics**.
