@@ -108,6 +108,7 @@ The company faced unforeseen losses in America and lacks a strong analytics team
 - Followed **Snowflake modeling method**  
 - Ensured **good practices** to optimize report performance  
 - Data model forms the **foundation of all visuals**  
+<img width="303" height="335" alt="Data Model" src="https://github.com/user-attachments/assets/5bdd809f-6619-456d-82eb-6e68e63c6162" />
 
 ---
 
